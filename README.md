@@ -1,8 +1,8 @@
 # recruiting-exercises
 
-Solution for Inventory Allocator: inventory-allocator/InventoryAllocator.java
-To Compile: javac InventoryAllocator.java
-To run: java InventoryAllocator
+Solution for Inventory Allocator: inventory-allocator/InventoryAllocator.java <br>
+To Compile: javac InventoryAllocator.java <br>
+To run: java InventoryAllocator <br>
 
 Output:
 Output for test 1:
